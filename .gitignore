@@ -2,6 +2,9 @@
 *.jar
 *.class
 # This is for adding a complete folder in repo to ignore
-/bin/
+/GitTest/bin/**
+/GitTest/.classpath
+/GitTest/.settings/**
+/GitTest/.project
 /.metadata/
 /RemoteSystemsTempFiles/
