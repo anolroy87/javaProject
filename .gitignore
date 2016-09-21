@@ -1,0 +1,7 @@
+*.war
+*.jar
+*.class
+# This is for adding a complete folder in repo to ignore
+/bin/
+/.metadata/
+/RemoteSystemsTempFiles/
