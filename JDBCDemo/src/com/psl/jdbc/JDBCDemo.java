@@ -1,4 +1,4 @@
-package com.psl.jdbc;
+package src.com.psl.jdbc;
 
 import java.io.ObjectInputStream.GetField;
 import java.sql.Connection;
