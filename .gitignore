@@ -7,6 +7,7 @@
 /GitTest/.settings/**
 /GitTest/.project
 
+/JDBCDemo/bin/**
 /JDBCDemo/.classpath
 /JDBCDemo/.project
 /JDBCDemo/.settings/**
