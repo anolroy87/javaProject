@@ -6,5 +6,6 @@
 /GitTest/.classpath
 /GitTest/.settings/**
 /GitTest/.project
-/.metadata/
+/.metadata/**
+/.recommenders/**
 /RemoteSystemsTempFiles/
