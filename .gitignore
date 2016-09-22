@@ -6,6 +6,11 @@
 /GitTest/.classpath
 /GitTest/.settings/**
 /GitTest/.project
+
+/JDBCDemo/.classpath
+/JDBCDemo/.project
+/JDBCDemo/.settings/**
+
 /.metadata/**
 /.recommenders/**
 /RemoteSystemsTempFiles/
