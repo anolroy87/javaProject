@@ -1,6 +1,6 @@
 package com.gittest.main;
 
-#import com.gittest.util.MyUtil;
+//import com.gittest.util.MyUtil;
 
 public class MyTest {
 
@@ -17,9 +17,9 @@ public class MyTest {
 		
 		// Also create another project under the same repo,  and push it to Remote.
 		
-		#MyUtil m = new MyUtil();
+		//MyUtil m = new MyUtil();
 		
-		#m.getSysInfo();
+		//m.getSysInfo();
 		
 	}
 
